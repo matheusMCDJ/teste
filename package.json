@@ -4,12 +4,12 @@
   "description": "Dialogflow Server",
   "main": "src/index.js",
   "author": {
-    "name": "Kenniston Arraes Bonfim",
+    "name": "Matheus Carvalho",
     "url": "http://www.dynamic-light.com.br"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenniston/dialogflow-server.git"
+    "url": "https://github.com/matheusMCDJ/teste.git"
   },
   "license": "ISC",
   "scripts": {
